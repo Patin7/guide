@@ -27,7 +27,7 @@ Here is an example of what an embed may look like. We will go over their constru
 			Some description here
 			<embed-fields>
 				<embed-field title="Regular field title">
-					Some value here
+					Some value teste
 				</embed-field>
 				<embed-field title="​">
 					​
